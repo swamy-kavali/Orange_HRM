@@ -4,7 +4,7 @@ int num = 121;
 int revNum = 0;
 int Onum = num;
 while(num!=0){
-
+syste()
 int rem = num%10;
 revNum = revNum*10+rem;
 num = num/10;
